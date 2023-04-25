@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Web Development Fundamentals</title>
-  </head>
   <body>
     <h1>SYLLABUS</h1>
     <h1>Web Development Fundamentals:</h1>
