@@ -40,6 +40,12 @@
       <li>Understand how child elements are sized and distributed within a flex container, and how to use the <code>flex</code> shorthand property to set flexible widths or heights for child elements.</li>
     </ul>
     <h1>GRID</h1>
-    
+    <ul>
+      <li>Gain an understanding of the differences between grid and flexbox, and their respective strengths and weaknesses for different layout tasks.</li>
+      <li>Learn how to use the <code>display: grid</code> property to make a container a grid container, and how to set up a grid using the <code>grid-template-rows</code> and <code>grid-template-columns</code> properties.</li>
+      <li>Understand how grid sizing works, and how to create and arrange a grid using the <code>grid-template-areas</code> property.</li>
+      <li>Learn how to position items within a grid using the <code>grid-row</code>, <code>grid-column</code>, <code>grid-row-start</code>, <code>grid-column-start</code>, and <code>grid-area</code> properties, and how to control item placement across rows and columns using the <code>grid-row-gap</code>, <code>grid-column-gap</code>, and <code>grid-gap</code> properties.</li>
+      <li>Discover how to combine grid with flexbox to create complex layouts using native CSS, taking advantage of the strengths of both layout systems.</li>
+    </ul>
   </body>
 </html>
