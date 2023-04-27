@@ -47,5 +47,91 @@
       <li>Learn how to position items within a grid using the <code>grid-row</code>, <code>grid-column</code>, <code>grid-row-start</code>, <code>grid-column-start</code>, and <code>grid-area</code> properties, and how to control item placement across rows and columns using the <code>grid-row-gap</code>, <code>grid-column-gap</code>, and <code>grid-gap</code> properties.</li>
       <li>Discover how to combine grid with flexbox to create complex layouts using native CSS, taking advantage of the strengths of both layout systems.</li>
     </ul>
+    <h1>BOOTSTRAP</h1>
+    <ul>
+      <li>Gain an understanding of the differences between using native CSS and external frameworks, like Bootstrap, and learn about their respective advantages and disadvantages.</li>
+      <li>Learn how to install Bootstrap onto your website and how to use the Bootstrap 12-column layout system to create responsive designs.</li>
+      <li>Discover how to use Bootstrap's extensive library of components, including buttons, carousels, cards, and navigation bars, to quickly and easily add functionality to your website.</li>
+      <li>Learn how to access and incorporate designer icons from Bootstrap to add an extra layer of visual polish to your designs.</li>
+      <li>Utilize Bootstrap's code snippets, examples, and pre-built templates to speed up your development process and create beautiful mobile-first websites with ease.</li>
+    </ul>
+    <h1>WEB DESIGN</h1>
+    <ul>
+      <li>Learn the core principles of web design, including User Interface (UI) and User Experience (UX).</li>
+      <li>Discover colour theory and how to select modern colour palettes for a professional website appearance.</li>
+      <li>Explore modern typography and select free-for-commercial-use fonts for a user-friendly and stylish website.</li>
+      <li>Master key principles of UI design to guide user attention and create effective layouts.</li>
+      <li>Understand UX design to create user-friendly and intuitive websites.</li>
+    </ul>
+    <h1>DOCUMENT OBJECT MODEL (DOM)</h1>
+    <ul>
+      <li>Understand the tree structure of HTML-based websites.</li>
+      <li>Traverse through the document using object notation.</li>
+      <li>Apply coding best practices and separation of concerns.</li>
+      <li>Modify and manipulate HTML elements through your understanding of the DOM.</li>
+    </ul>
+    <h1>JAVASCRIPT ES6</h1>
+    <ul>
+      <li>Compare programming languages like JS with scripting and markup/stylesheet languages.</li>
+      <li>Get an overview of JavaScript and its uses.</li>
+      <li>Understand how to work with a code editor and IDEs.</li>
+      <li>Learn about basic syntax and data types in JavaScript, including:
+        <ul>
+          <li>Variables and their scope (let, const)</li>
+          <li>Data types (string, number, boolean, null, undefined, symbol)</li>
+          <li>Operators and expressions, including arithmetic, comparison, and logical operators</li>
+          <li>Control structures like if/else statements and loops, including:
+            <ul>
+              <li>The for loop and while loop</li>
+              <li>The for...of loop to iterate over arrays</li>
+              <li>The for...in loop to iterate over object properties</li>
+            </ul>
+          </li>
+          <li>Functions and their importance in JavaScript, including:
+            <ul>
+              <li>Function declaration and expression</li>
+              <li>Function scope and closures</li>
+              <li>Arrow functions and their syntax</li>
+              <li>Higher-order functions, including:
+                <ul>
+                  <li>Passing functions as arguments to other functions</li>
+                  <li>Returning functions from other functions</li>
+                  <li>The map, filter, and reduce methods on arrays and their use with higher-order functions</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Arrays and their methods, including:
+            <ul>
+              <li>Creating and accessing arrays</li>
+              <li>Adding and removing elements from arrays</li>
+              <li>The slice method for slicing arrays</li>
+              <li>The concat method for concatenating arrays</li>
+              <li>The indexOf and lastIndexOf methods for finding elements in arrays</li>
+              <li>The map, filter, and reduce methods for manipulating arrays</li>
+              <li>The spread syntax ... to spread the elements of an array into a new array or function call</li>
+            </ul>
+          </li>
+          <li>Object-oriented programming in JavaScript, including:
+            <ul>
+              <li>Creating objects with object literals</li>
+              <li>Creating objects with constructor functions and the new keyword</li>
+              <li>Creating objects with classes and the class keyword</li>
+              <li>Adding and accessing properties and methods on objects</li>
+              <li>The this keyword and how it works in object methods</li>
+              <li>The super keyword for accessing parent class methods and properties</li>
+              <li>Manipulating objects and arrays using methods and iteration, including:
+                <ul>
+                  <li>The Object.keys and Object.values methods for getting the keys and values of an object as arrays</li>
+                  <li>The for...in loop for iterating over object properties</li>
+                  <li>The Object.assign method for copying properties from one object to another</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <h1></h1>
   </body>
 </html>
