@@ -132,6 +132,31 @@
         </ul>
       </li>
     </ul>
-    <h1></h1>
+    <h1>React.JS</h1>
+    <ul>
+      <li>Get introduced to front-end development using React.</li>
+      <li>Learn how and when to use React components.</li>
+      <li>Understand the usage of Props and how to work with them.</li>
+      <li>Learn about JSX syntax and how to write JSX.</li>
+      <li>Explore the React DOM.</li>
+      <li>Understand State Management in React.</li>
+      <li>Learn about React Hooks.</li>
+      <li>Understand conditional rendering in React.</li>
+      <li>Recognize the difference between class and functional components in React.</li>
+    </ul>
+    <h1>THE UNIX COMMAND LINE</h1>
+    <ul>
+      <li>Learn the usage of fundamental bash commands in a Unix/Linux terminal.</li>
+      <li>Acquire the skill to manage files and directories via command-line interface.</li>
+      <li>Learn to download and install applications to your system using command line.</li>
+	</ul>
+    <h1>GIT, GITHUB, AND VERSION CONTROL</h1>
+    <ul>
+      <li>Learn how to use Git for version control and collaboration on your projects.</li>
+      <li>Understand Git concepts such as forking, branching, and cloning repositories.</li>
+      <li>Learn to use GitHub as a remote repository for your Git projects.</li>
+      <li>Master the Git commands for checking out and rolling back changes to your code.</li>
+      <li>Learn to integrate Git and GitHub with Xcode for an efficient development workflow.</li>
+    </ul>
   </body>
 </html>
