@@ -158,5 +158,17 @@
       <li>Master the Git commands for checking out and rolling back changes to your code.</li>
       <li>Learn to integrate Git and GitHub with Xcode for an efficient development workflow.</li>
     </ul>
+    <h1>Node.JS</h1>
+    <ul>
+      <li>Explore the components of back-end development, working with an MVC framework</li>
+      <li>Apply concepts like data types, objects, methods, object- oriented programming, and classes in the context of back-end development.</li>
+      <li>Server-Side JavaScript</li>
+      <li>Using Node on the command line NPM</li>
+      <li>JavaScript Build Processes</li>
+      <li>Event Loop and Emitters</li>
+      <li>File System Interaction</li>
+      <li>Modules</li>
+      <li>Native Node drivers</li>
+    </ul>
   </body>
 </html>
